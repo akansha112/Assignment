@@ -47,13 +47,17 @@ I have created a seperated view model and the data model class of the api respon
 Designing is done using Material design.
 
 List are done using the recycler view.
+** All the icons, images and color have been taken from the figma file.
 
-
- 
-
-** All the colors , icons and fonts have been taken from the figma file.
+![Screenshot_20230705-224241_Test](https://github.com/akansha112/Assignment/assets/95122024/38f92287-ea8a-4708-b5e7-b5bb20e72f9d)
+** All the colors ![Screenshot_20230705-224236_Test](https://github.com/akansha112/Assignment/assets/95122024/ef51b69b-b77e-40b4-a08c-028d9934363f)
+[Screenshot_20230705-224203_Test](https://github.com/akansha112/Assignment/assets/95122024/1510e720-742f-446a-865a-2293179892d0)
+![IMG-20230705-WA0015](https://github.com/akansha112/Assignment/assets/95122024/e35d15f3-e5fc-49cd-888f-0ca5e348f9b0)
+![Screenshot_20230705-224209_Test](https://github.com/akansha112/Assignment/assets/95122024/101bf2b1-a861-4a84-844a-a720a6a57e02)
 
  
 
 Thank you so much.
 
+![Screenshot_20230705-224247_Test](https://github.com/akansha112/Assignment/assets/95122024/6b8f173d-d56f-4a2e-b211-098b55afb432)
+![Screenshot_20230705-224308_Test](https://github.com/akansha112/Assignment/assets/95122024/ccd0720d-3f5d-4e85-ac4b-52843e73b1f5)
